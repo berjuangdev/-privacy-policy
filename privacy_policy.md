@@ -97,7 +97,7 @@ Untuk menghapus akun dan semua data Anda:
 1. Buka aplikasi To-Do App
 2. Tap ikon menu di pojok kanan atas
 3. Tap **"Hapus Semua Tugas"** untuk menghapus semua data tugas
-4. Hubungi kami di **emailkhususmu@gmail.com** dengan subject **"Hapus Akun"**
+4. Hubungi kami di **keponyapeh@gmail.com** dengan subject **"Hapus Akun"**
 5. Kami akan menghapus akun dan semua data Anda dalam **7 hari kerja**
 
 **Data yang dihapus:**
