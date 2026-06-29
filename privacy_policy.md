@@ -12,9 +12,9 @@ To-Do App ("aplikasi") dikembangkan sebagai aplikasi produktivitas untuk membant
 
 ## 2. Batasan Usia
 
-Aplikasi ini ditujukan untuk pengguna yang berusia **16 tahun ke atas**. Pengguna yang berusia 16-17 tahun disarankan untuk mendapatkan persetujuan orang tua atau wali sebelum menggunakan aplikasi ini. Kami tidak secara sengaja mengumpulkan data pribadi dari individu yang berusia di bawah 16 tahun.
+Aplikasi ini ditujukan untuk pengguna yang berusia **18 tahun ke atas**. Kami tidak secara sengaja mengumpulkan data pribadi dari individu yang berusia di bawah 18 tahun.
 
-Jika Anda adalah orang tua atau wali dan mengetahui bahwa anak Anda yang berusia di bawah 16 tahun telah memberikan data pribadi kepada kami, harap hubungi kami di keponyapeh@gmail.com agar kami dapat segera menghapus data tersebut.
+Jika Anda adalah orang tua atau wali dan mengetahui bahwa anak Anda yang berusia di bawah 18 tahun telah memberikan data pribadi kepada kami, harap hubungi kami di keponyapeh@gmail.com agar kami dapat segera menghapus data tersebut.
 
 ---
 
